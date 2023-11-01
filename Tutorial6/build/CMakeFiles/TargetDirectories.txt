@@ -1,0 +1,2 @@
+/home/satnaingtun/Documents/Cproj/Tutorial6/build/CMakeFiles/edit_cache.dir
+/home/satnaingtun/Documents/Cproj/Tutorial6/build/CMakeFiles/rebuild_cache.dir

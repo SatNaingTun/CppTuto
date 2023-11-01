@@ -1,0 +1,6 @@
+/home/satnaingtun/Documents/Cproj/Tutorial2/build/CMakeFiles/out.dir
+/home/satnaingtun/Documents/Cproj/Tutorial2/build/CMakeFiles/edit_cache.dir
+/home/satnaingtun/Documents/Cproj/Tutorial2/build/CMakeFiles/rebuild_cache.dir
+/home/satnaingtun/Documents/Cproj/Tutorial2/build/lib/CMakeFiles/wifi_lib.dir
+/home/satnaingtun/Documents/Cproj/Tutorial2/build/lib/CMakeFiles/edit_cache.dir
+/home/satnaingtun/Documents/Cproj/Tutorial2/build/lib/CMakeFiles/rebuild_cache.dir
